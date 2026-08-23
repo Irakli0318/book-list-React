@@ -8,7 +8,7 @@ Live Demo
 
 You can try the application directly in your browser.
 
-Features
+Features:
 Create a user account with email and password
 Log in and access your personal book collection
 Add and manage books
