@@ -1,29 +1,49 @@
-# Book List Application
+Book List Application
 
-A front-end application built with React, Redux Toolkit, and Firebase for managing a personal book collection, adding notes, and handling user authentication.
+A front-end application for managing a personal book collection. Built with React, Redux Toolkit, and Firebase.
 
-## ✨ Authentication Features
+Live Demo
 
-- **Sign Up:** Create a new account with email and password.
-- **Log In:** Access your personal book collection.
-- **Form Validation:** Instant error feedback if the email or password format is incorrect.
+🔗 Open the live project: https://book-list-react-orpin.vercel.app/
 
-## 🛠️ Environment & Versions
+You can try the application directly in your browser.
 
-- **Node.js:** v22.17.0
-- **npm:** 10.9.2
-- **Vite:** v4.4.0
-- **React:** v18.2.0
+Features
+Create a user account with email and password
+Log in and access your personal book collection
+Add and manage books
+Add notes to books
+Form validation for authentication
+User authentication with Firebase
+State management with Redux Toolkit
+Built With
+React
+Redux Toolkit
+Firebase
+Vite
+JavaScript
+HTML
+CSS
+Run Locally
 
-## 🚀 How to Run the Application
+To run the project on your computer:
 
-Follow these steps directly in your command line to install everything and start the application:
-
-### 1. Install Dependencies (Required)
-
-Before starting the server, you must install the required packages. This automatically reads your `package.json` and sets up the project structure.
-
-```bash
+Clone the repository
+git clone 
+cd book-list-React
+Install dependencies
 npm install
+Start the development server
 npm run dev
-```
+
+Vite will provide a local address in the terminal, usually:
+
+http://localhost:5173
+
+Open the address in your browser to view the application.
+
+Environment
+Node.js: v22.17.0
+npm: 10.9.2
+React: v18.2.0
+Vite: v4.4.0
